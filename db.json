@@ -2,28 +2,28 @@
     "cursos": [{
             "id": 1,
             "title": "React desde cero",
-            "img": "https://i.ytimg.com/an_webp/-FlxM_0S2lA/mqdefault_6s_480x270.webp?du=3000&sqp=CMC7r_cF&rs=AOn4CLDiJ9L4WuPP0XbWAtkiFWV2dJmgPA",
+            "img": "https://i.ytimg.com/an_webp/-FlxM_0S2lA/mqdefault_6s_480x270.webp?du=3000&sqp=CMCN1PcF&rs=AOn4CLBD599rSpyNZQ_iz4piBRwrO1cIaQ",
             "teacher": "George Eglinton",
             "price": 59
         },
         {
             "id": 2,
             "title": "JavaScript desde cero",
-            "img": "https://i.ytimg.com/an_webp/-FlxM_0S2lA/mqdefault_6s_480x270.webp?du=3000&sqp=CMC7r_cF&rs=AOn4CLDiJ9L4WuPP0XbWAtkiFWV2dJmgPA",
+            "img": "https://i.ytimg.com/an_webp/cT5GghQwhFw/mqdefault_6s_480x270.webp?du=3000&sqp=CLzp0_cF&rs=AOn4CLCnApeFQxkwbr0r9xjMWMJkB9gfAw",
             "teacher": "Mars Donald",
             "price": 29
         },
         {
             "id": 3,
             "title": "SQL desde cero",
-            "img": "https://i.ytimg.com/an_webp/-FlxM_0S2lA/mqdefault_6s_480x270.webp?du=3000&sqp=CMC7r_cF&rs=AOn4CLDiJ9L4WuPP0XbWAtkiFWV2dJmgPA",
+            "img": "https://i.ytimg.com/an_webp/EGuGPJfHPjo/mqdefault_6s_480x270.webp?du=3000&sqp=COj10_cF&rs=AOn4CLBpS3GfkxT19uRiJB2FMY5jqmkCVg",
             "teacher": "Aaron Wesley",
             "price": 49
         },
         {
             "id": 4,
             "title": "Java desde cero",
-            "img": "https://i.ytimg.com/an_webp/-FlxM_0S2lA/mqdefault_6s_480x270.webp?du=3000&sqp=CMC7r_cF&rs=AOn4CLDiJ9L4WuPP0XbWAtkiFWV2dJmgPA",
+            "img": "https://i.ytimg.com/vi/NxSDNogkKX0/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAX7yCcj097mKIfBYnnsUx-mYgBoA",
             "teacher": "Valeria Vargas",
             "price": 999
         }
